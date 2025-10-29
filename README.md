@@ -1,8 +1,8 @@
-# [your app name here]
+# [Gamilist]
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [your names here]
+Designed and developed by: Rashad, Jing, Rahat
 
 🔗 Link to deployed app:
 
@@ -10,11 +10,11 @@ Designed and developed by: [your names here]
 
 ### Description and Purpose
 
-[text goes here]
+Similar to myAnimelist, Gamilist is a way for you to see game recommendations based off what you have played. 
 
 ### Inspiration
 
-[text goes here]
+[\[myanimelist\]](https://myanimelist.net/)
 
 ## Tech Stack
 
@@ -24,21 +24,21 @@ Backend:
 
 ## Features
 
-### [Name of Feature 1]
+### [Browse games]
 
-[short description goes here]
-
-[gif goes here]
-
-### [Name of Feature 2]
-
-[short description goes here]
+Browse games based on platform(Console, PC)
 
 [gif goes here]
 
-### [Name of Feature 3]
+### [Add games to your list of completions]
 
-[short description goes here]
+Make a list of  games that you completed
+
+[gif goes here]
+
+### [Check recommendations]
+
+See other games that are similar to what you have played before based on what you like/completed 
 
 [gif goes here]
 

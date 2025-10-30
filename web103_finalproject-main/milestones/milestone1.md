@@ -13,19 +13,17 @@ This unit, be sure to complete all tasks listed below. To complete a task, place
 - [x] In `readme.md`: complete the **Description and Purpose** section
 - [X] In `readme.md`: complete the **Inspiration** section
 - [X] In `readme.md`: list a name and description for all features (minimum 6 for full points) you intend to include in your app (in future units, you will check off features as you complete them and add GIFs demonstrating the features)
-- [ ] In `planning/user_stories.md`: add all user stories (minimum 10 for full points)
-- [ ] In `planning/user_stories.md`: use 1-3 unique user roles in your user stories
-- [ ] In this document, complete all thre questions in the **Reflection** section below
+- [X] In `planning/user_stories.md`: add all user stories (minimum 10 for full points)
+- [X] In `planning/user_stories.md`: use 1-3 unique user roles in your user stories
+- [] In this document, complete all three questions in the **Reflection** section below
 
 ## Reflection
 
 ### 1. What went well during this unit?
-
-[👉🏾👉🏾👉🏾 your answer here]
+Brainstorming ideas with team and narrowing down to one.
 
 ### 2. What were some challenges your group faced in this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
 
 ### 3. What additional support will you need in upcoming units as you continue to work on your final project?
 

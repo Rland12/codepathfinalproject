@@ -6,15 +6,17 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 [👉🏾👉🏾👉🏾 List the pages you expect to have in your app, with a ⭐ next to pages you have wireframed]
 
-## Wireframe 1: [page title]
+## Wireframe 1: [Home page]
 
-[👉🏾👉🏾👉🏾 include wireframe 1]
+<img width="1927" height="1324" alt="Home" src="https://github.com/user-attachments/assets/c18d217d-33cc-46dc-9469-e00186678434" />
 
-## Wireframe 2: [page title]
 
-[👉🏾👉🏾👉🏾 include wireframe 2]
+## Wireframe 2: [Game Details Page]
 
-## Wireframe 3: [page title]
+<img width="1927" height="1324" alt="Game Details" src="https://github.com/user-attachments/assets/c167edd7-31e8-4d38-b64d-e1f6a899a3d7" />
+
+
+## Wireframe 3: [profile]
 
 [👉🏾👉🏾👉🏾 include wireframe 3]
 

@@ -8,16 +8,14 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## Wireframe 1: [Home page]
 
-<img width="1927" height="1324" alt="Home" src="https://github.com/user-attachments/assets/c18d217d-33cc-46dc-9469-e00186678434" />
-
+<img width="589" height="496" alt="image" src="https://github.com/user-attachments/assets/4abf2326-c1bb-414f-8809-a87e12b47a8b" />
 
 ## Wireframe 2: [Game Details Page]
 
-<img width="1927" height="1324" alt="Game Details" src="https://github.com/user-attachments/assets/c167edd7-31e8-4d38-b64d-e1f6a899a3d7" />
-
+<img width="589" height="493" alt="image" src="https://github.com/user-attachments/assets/2606bbb3-5edc-42c4-b6ba-c641fbe33460" />
 
 ## Wireframe 3: [profile]
 
-[👉🏾👉🏾👉🏾 include wireframe 3]
+<img width="499" height="490" alt="image" src="https://github.com/user-attachments/assets/66c9af81-507b-4902-9d66-4573a5a34644" />
 
 [👉🏾👉🏾👉🏾 include more wireframes as desired]
